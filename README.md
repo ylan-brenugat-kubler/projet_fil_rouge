@@ -36,5 +36,6 @@ Ce site est un projet personnel conçu pour partager ma passion pour le jeu **El
 ## Auteur
 - **Nom :** Ylan Brenugat Kubler
 - **Email :** ylan.kubler@gmail.com
+- URL:https://ylan-brenugat-kubler.github.io/projet_fil_rouge/
 
 
